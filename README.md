@@ -25,6 +25,6 @@ const aboutMe = {
 ```
 <br>
 
-| ![Aditya's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sdmalirf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![Aditya GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sdmalirf&layout=compact&langs_count=8&theme=algolia) |
+| ![Aditya's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sadamlrfs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![Aditya GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadamlrfs&layout=compact&langs_count=8&theme=algolia) |
 | --- | --- |
   
