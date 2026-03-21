@@ -9,7 +9,7 @@
 - 👨‍🎓 I'm a student of `Informatics Engineering` at [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/).
 - 🏆 Achievements in `Game Development` and `Web Development`.
 - 💻 I have interest on `Website Dev`, `Mobile Dev`, and `UI/UX`.
-- 🔥 2024 Goals: Learning new technologies and creating more innovations.
+- 🔥 2026 Goals: Learning new technologies and creating more innovations.
 <br>
 <br>
 
